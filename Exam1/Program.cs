@@ -1,7 +1,6 @@
 ﻿//Задача 25: Напишите цикл, который принимает на вход два числа (A и B) и возводит число A в натуральную степень B.
 
 Console.WriteLine("Возведене числа A в натуральную степень B");
-
 int Exponentiation(int numberA, int numberB)
 {
     int result = 1;
